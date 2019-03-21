@@ -8,3 +8,13 @@
 * Use object-oriented design or functional programming (logical and maintainable code) best practices to build lasting, scalable software.
 * Familiarity with the devices and/or browsers which run your software. Topics such as system availability, efficient resource usage (CPU, battery, screen size),and performance implications.
 * Familiarity with device and/or browser topics such as security, native API methods, local storage, and compatibility.
+
+# Technical Tips
+* Get ready to solve in-depth technical questions on concepts like front-end application design, data structures, and algorithms. This will likely include qualifying requirements, checking edge cases, and white boarding your solutions with engineers. In-person interviews tend to be more in-depth than the typesof questions asked during phone interview.
+* Be prepared to discuss technologies listed on your resume. i.e. if you list JavaScript or Ruby or Python as technical competencies, expect technical questions about your experiences with these technologies. It is helpful to review the job
+description before your interview to align your qualifications against the job’s specific requirements and responsibilities. When listing frameworks, be prepared to speak about these in depth and compare to other frameworks.
+* Brush up on problem solving and core Computer Science fundamentals.
+
+# Resources
+* “Cracking the coding interview” is a good read.
+
