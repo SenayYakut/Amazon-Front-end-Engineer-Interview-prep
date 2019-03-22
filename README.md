@@ -63,7 +63,7 @@ APIs, and interactions between components.
 
 **Object-Oriented Design**
 
-* _ Good software needs to be extensible and maintainable._
+* _Good software needs to be extensible and maintainable._
 
 * _Use object-oriented design best practices._ 
 
@@ -73,13 +73,25 @@ APIs, and interactions between components.
 
 **Databases**
 
-* _
+* _Figuring out how to most efficiently retrieve and store data for future use._
 
-* _
+* _No knowlage OR any particular level of expertise REQUIRES with non-relational databases._
 
-* _
+* _You should be familiar with broad database concepts and their applications._
+
+* _Knowing about tradeoffs between relational and non-relational databases._
+ 
+* _DynamoDB_
 
 **Distributed Computing**
+
+* _
+
+* _
+
+* _
+
+* _
 
 **Operating Systems**
 
