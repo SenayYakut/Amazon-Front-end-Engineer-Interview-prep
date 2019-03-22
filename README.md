@@ -126,4 +126,6 @@ APIs, and interactions between components.
 
 * _My favorite is [GeeksforGeeks](https://www.geeksforgeeks.org/)_
 
+* _If you need some help with fundamentals [FreeCodeCamp](https://guide.freecodecamp.org/javascript/es6/arrow-functions/)_
+
 
