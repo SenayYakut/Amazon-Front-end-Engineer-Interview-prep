@@ -1,4 +1,5 @@
 # Front-end Engineer Tips
+
 * Familiarity with prominent programming languages, including the syntax of the language. Pick the one you'r most comfortable with and stick with it.
 * Know how to use languages, libraries, and rendering technologies (e.g., web: JavaScript,templating languages,HTML, CSS; C#, webviews, view frameworks).
 * Showcase your knowledge of front-end system design. i.e. reusable components,separation of concerns (view models from business logic), application state management, and basic n-tier computing concepts (front-end, middle-tier, back-end).
@@ -10,12 +11,14 @@
 * Familiarity with device and/or browser topics such as security, native API methods, local storage, and compatibility.
 
 # Technical Tips
+
 * Get ready to solve in-depth technical questions on concepts like front-end application design, data structures, and algorithms. This will likely include qualifying requirements, checking edge cases, and white boarding your solutions with engineers. In-person interviews tend to be more in-depth than the typesof questions asked during phone interview.
 * Be prepared to discuss technologies listed on your resume. i.e. if you list JavaScript or Ruby or Python as technical competencies, expect technical questions about your experiences with these technologies. It is helpful to review the job
 description before your interview to align your qualifications against the job’s specific requirements and responsibilities. When listing frameworks, be prepared to speak about these in depth and compare to other frameworks.
 * Brush up on problem solving and core Computer Science fundamentals.
 
 # White Boarding
+
 * Be prepared to white board. Practice writing code, front-end system design,and creating rough UI wireframes. Consider logical, maintainable, and scalable code or design before you begin drafting.
 * Interact with your interviewer. You will be asked several questions related to design. Engage with your interviewer
 with necessary questions to complete the exercise.
@@ -30,6 +33,7 @@ APIs, and interactions between components.
 * Keep the customer front of mind. Who is the customer, and what problem are you solving for them?
 * Write a list of requirements on the board, and keep asking questions. This should be the first thing you write out.
 # Software Development Topics
+
 **Programming Language**
 
 * _Familarity with a prominent language is generally a prerequisite for success. Knowing the syntax of languages such as Java, Python, C#, C/C++, or Ruby._
@@ -39,6 +43,7 @@ APIs, and interactions between components.
  * _Pick the one language you'r most comfortable  with and stick with it._
 
 **Data Structures**
+
 * _Knowlage storing and providing access to data in efficent ways._
 
 * _Understanding the inner workings of common data structures and be able to compare and contrast their usage in various applications._
@@ -101,7 +106,6 @@ APIs, and interactions between components.
 
 * _Having a solid understanding of the fundamentals of how the worldwide web works is a requirement._
 
-
 **General Machine Learning and Artificial Intelligence** 
 
 * _Data-driven modeling, train/test protocols, error analysis, and statistical significance._
@@ -116,7 +120,10 @@ APIs, and interactions between components.
 
 * _Practicing coding outside of an integrated development environment._
 
-
 # Resources
+
 * “Cracking the coding interview” is a good read.
+
+* _[GeeksforGeeks is my favaroite](https://www.geeksforgeeks.org/)_
+
 
