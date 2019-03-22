@@ -51,7 +51,7 @@ APIs, and interactions between components.
 
 * _Review common algorithms such as traversals, divide and conquer, breadth-first search vs. depth-first search and understand the tradeoffs for each._
 
-*_Knowing the runtimes, theoretical limitations, and basic implementation strategies of different classes of algorithms is more important than memorizing the specific details of any given algorithm._
+* _Knowing the runtimes, theoretical limitations, and basic implementation strategies of different classes of algorithms is more important than memorizing the specific details of any given algorithm._
 
 **Coding**
 
@@ -63,7 +63,21 @@ APIs, and interactions between components.
 
 **Object-Oriented Design**
 
+* _ Good software needs to be extensible and maintainable._
+
+* _Use object-oriented design best practices._ 
+
+* _Should have a working knowledge of a few common and useful design patterns, along with how to write software in an object-oriented way._
+
+* _Able to defen your design choices._
+
 **Databases**
+
+* _
+
+* _
+
+* _
 
 **Distributed Computing**
 
