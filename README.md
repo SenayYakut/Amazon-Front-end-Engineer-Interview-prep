@@ -85,15 +85,20 @@ APIs, and interactions between components.
 
 **Distributed Computing**
 
-* _
+* _Understanding of a few basic distributed computing concepts._
 
-* _
-
-* _
-
-* _
+* _Understanding topics such as service-oriented architectures, map-reduce, distributed caching, load balancing, and others,_
 
 **Operating Systems**
+
+* _
+
+* _
+
+* _
+
+* _
+
 
 
 **Internet Topics**
