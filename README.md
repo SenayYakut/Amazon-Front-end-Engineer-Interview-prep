@@ -124,6 +124,6 @@ APIs, and interactions between components.
 
 * “Cracking the coding interview” is a good read.
 
-* _[GeeksforGeeks is my favaroite](https://www.geeksforgeeks.org/)_
+* _My favorite is [GeeksforGeeks](https://www.geeksforgeeks.org/)_
 
 
