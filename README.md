@@ -51,9 +51,15 @@ APIs, and interactions between components.
 
 * _Review common algorithms such as traversals, divide and conquer, breadth-first search vs. depth-first search and understand the tradeoffs for each._
 
-* _Knowing the runtimes, theoretical limitations, and basic implementation strategies of different classes of algorithms is more important than memorizing the specific details of any given algorithm._
+*_Knowing the runtimes, theoretical limitations, and basic implementation strategies of different classes of algorithms is more important than memorizing the specific details of any given algorithm._
 
 **Coding**
+
+* _Writing syntactically correct code—no pseudo code. Get practice coding with a pen and paper._
+
+* _Writing a scalable, robust, and well-tested code._
+
+* _Make sure that you check for edge cases and validate that no bad input can slip through._
 
 **Object-Oriented Design**
 
