@@ -32,11 +32,11 @@ APIs, and interactions between components.
 # Software Development Topics
 **Programming Language**
 
-_Familarity with a prominent language is generally a prerequisite for success. Knowing the syntax of languages such as Java, Python, C#, C/C++, or Ruby._
+* _Familarity with a prominent language is generally a prerequisite for success. Knowing the syntax of languages such as Java, Python, C#, C/C++, or Ruby._
 
-_You should also know some of the languages’ nuances, such as how memory management works, or the most commonly used collections, libraries, etc._
+* _You should also know some of the languages’ nuances, such as how memory management works, or the most commonly used collections, libraries, etc._
 
-_Pick the one language you'r most comfortable  with and stick with it._
+ * _Pick the one language you'r most comfortable  with and stick with it._
 
 **Data Structures**
 
