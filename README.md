@@ -91,17 +91,16 @@ APIs, and interactions between components.
 
 **Operating Systems**
 
-* _
-
-* _
-
-* _
-
-* _
-
-
+* _You don't need to know how to build your own operating system from scratch, but you should be familiar with some OS topics that can affect code performance (e.g. memory management, processes, threads, synchronization, paging, and multithreading)._
 
 **Internet Topics**
+
+* _
+
+* _
+
+* _
+
 
 **General Machine Learning and Artificial Intelligence** 
 
