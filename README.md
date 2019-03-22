@@ -46,6 +46,12 @@ APIs, and interactions between components.
 * _Knowing the runtimes for common operations as well as how they use memory_
 
 **Algorithms**
+ 
+* _Having a good understanding of the most common algorithms will likely make solving some of the questions a lot easier._
+
+* _Review common algorithms such as traversals, divide and conquer, breadth-first search vs. depth-first search and understand the tradeoffs for each._
+
+*_Knowing the runtimes, theoretical limitations, and basic implementation strategies of different classes of algorithms is more important than memorizing the specific details of any given algorithm._
 
 **Coding**
 
