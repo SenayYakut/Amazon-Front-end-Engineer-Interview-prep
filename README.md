@@ -95,14 +95,27 @@ APIs, and interactions between components.
 
 **Internet Topics**
 
-* _
+* _Fundamentals of how the internet works._
 
-* _
+* _How browsers function at a high level, from DNS lookups and TCP/IP, to socket connections._
 
-* _
+* _Having a solid understanding of the fundamentals of how the worldwide web works is a requirement._
 
 
 **General Machine Learning and Artificial Intelligence** 
+
+* _Data-driven modeling, train/test protocols, error analysis, and statistical significance._
+
+* _Given a problem definition, you should be able to formulate it as a machine learning problem and propose a solution, including ideas for data sources, annotation, modeling approaches, and potential pitfalls._ 
+
+* _Understand the basic AI/ML methods and algorithms – revisit your favorite ML and AI textbooks._
+
+# Recommendations
+
+* _Reviewing or if you me learning Computer science fundamentals._
+
+* _Practicing coding outside of an integrated development environment._
+
 
 # Resources
 * “Cracking the coding interview” is a good read.
