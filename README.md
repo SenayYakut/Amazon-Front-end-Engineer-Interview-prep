@@ -40,8 +40,11 @@ APIs, and interactions between components.
 
 **Data Structures**
 * _Knowlage storing and providing access to data in efficent ways._
-*_ Understanding the inner workings of common data structures and be able to compare and contrast their usage in various applications._
-*_Knowing the runtimes for common operations as well as how they use memory
+
+* _Understanding the inner workings of common data structures and be able to compare and contrast their usage in various applications._
+
+* _Knowing the runtimes for common operations as well as how they use memory_
+
 **Algorithms**
 
 **Coding**
