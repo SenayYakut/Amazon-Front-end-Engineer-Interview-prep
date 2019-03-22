@@ -30,6 +30,7 @@ APIs, and interactions between components.
 * Keep the customer front of mind. Who is the customer, and what problem are you solving for them?
 * Write a list of requirements on the board, and keep asking questions. This should be the first thing you write out.
 # Software Development Topics
+* Programming Language
 * Data Structures
 * Algorithms
 * Coding
