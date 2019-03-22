@@ -15,6 +15,31 @@
 description before your interview to align your qualifications against the job’s specific requirements and responsibilities. When listing frameworks, be prepared to speak about these in depth and compare to other frameworks.
 * Brush up on problem solving and core Computer Science fundamentals.
 
+# White Boarding
+* Be prepared to white board. Practice writing code, front-end system design,and creating rough UI wireframes. Consider logical, maintainable, and scalable code or design before you begin drafting.
+* Interact with your interviewer. You will be asked several questions related to design. Engage with your interviewer
+with necessary questions to complete the exercise.
+* Dig for clarification.
+* Begin drawing a diagram once you've done enough digging to begin white boarding your system design solution. Start with shapes to represent different software components and data sources, and then arrows connecting them to show web services,
+APIs, and interactions between components.
+* Know how your solution solves the problem. If you suggest technology to help solve, understand how that technology works.
+* Think out loud as you write out your code or system design.
+* Show us your ability to solve problems.
+* Application performance is a critical component of front-end software design. Consider how to store and retrieve data, client-side vs server-side processing, browser/device rendering efficiency, and data flows. Keep this mind when diagramming and designing your software systems.
+* Operational performance is also a critical component of front-end software design. How will you ensure this component or application is working at an acceptable level of performance? If a problem occurs, what will be involved to trouble shoot and resolve quickly? What are the possible points of failure and how can they be made more robust agains failure?
+* Keep the customer front of mind. Who is the customer, and what problem are you solving for them?
+* Write a list of requirements on the board, and keep asking questions. This should be the first thing you write out.
+# Software Development Topics
+* Data Structures
+* Algorithms
+* Coding
+* Object-Oriented Design
+* Databases
+* Distributed computing
+* Operating systems
+* Internet Topics
+* General Machine Learning and Artificial Intelligence 
+
 # Resources
 * “Cracking the coding interview” is a good read.
 
