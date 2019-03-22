@@ -39,7 +39,9 @@ APIs, and interactions between components.
  * _Pick the one language you'r most comfortable  with and stick with it._
 
 **Data Structures**
-
+* _Knowlage storing and providing access to data in efficent ways._
+*_ Understanding the inner workings of common data structures and be able to compare and contrast their usage in various applications._
+*_Knowing the runtimes for common operations as well as how they use memory
 **Algorithms**
 
 **Coding**
