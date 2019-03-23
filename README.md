@@ -116,7 +116,7 @@ APIs, and interactions between components.
 
 # Recommendations
 
-* _Reviewing or if you me learning Computer science fundamentals._
+* _Reviewing or if you like me learning Computer science fundamentals._
 
 * _Practicing coding outside of an integrated development environment._
 
