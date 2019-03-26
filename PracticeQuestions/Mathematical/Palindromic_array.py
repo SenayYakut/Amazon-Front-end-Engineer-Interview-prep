@@ -31,24 +31,41 @@
 #For Test Case 1: [3 2 3 3 5] after merging the 1st two elements 3 and 2, we get the array as [5 3 3 5] which is a palindrome, hence only 1 operation is needed.
 
 #** For More Input/Output Examples Use 'Expected Output' option **
-t = int(input())
-for i in range(t):
-    input()
-    arr = [int(x) for x in input().split()]
-    i = 0
-    j = len(arr)-1
-    ans = 0
-    while i <= j:
-        if arr[i] == arr[j]:
+# Returns minimum number of count operations 
+# required to make arr[] palindrome 
+def findMinOps(arr, n): 
+    ans = 0 # Initialize result 
+  
+    # Start from two corners 
+    i,j = 0,n-1
+    while i<=j: 
+        # If corner elements are same, 
+        # problem reduces arr[i+1..j-1] 
+        if arr[i] == arr[j]: 
             i += 1
             j -= 1
-        elif arr[i] > arr[j]:
+  
+        # If left element is greater, then 
+        # we merge right two elements 
+        elif arr[i] > arr[j]: 
+            # need to merge from tail. 
             j -= 1
-            arr[j] += arr[j+1]
+            arr[j] += arr[j+1]  
             ans += 1
-        else:
+  
+        # Else we merge left two elements 
+        else: 
             i += 1
-            arr[i] += arr[i-1]
+            arr[i] += arr[i-1] 
             ans += 1
-    print(ans)
+  
+    return ans     
+
+    # Driver program to test above 
+arr = [1, 4, 5, 9, 1] 
+n = len(arr) 
+print("Count of minimum operations is " + str(findMinOps(arr, n))) 
+  
+# This code is contributed by Pratik Chhajer 
+
         
