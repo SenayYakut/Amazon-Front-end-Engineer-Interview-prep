@@ -12,7 +12,7 @@
 * React is a JavaScript Library.
 * React is not a framework
  * **_Software Framework vs library:_** 
- * **_Library_**A library provides a set of helper functions/objects/modules which your application code calls for specific functionality. Libraries typically focus on a narrow scope (e.g., strings, IO, sockets), so their API’s also tend to be smaller and require fewer dependencies. It is just a collection of class definitions. Why we need them? The reason being very simple i.e. code reuse, use the code which has already been written by other developers. Example, some library has a method named findLastIndex(char) to find the last index of a particular character in a string.
+ * **_Library_** A library provides a set of helper functions/objects/modules which your application code calls for specific functionality. Libraries typically focus on a narrow scope (e.g., strings, IO, sockets), so their API’s also tend to be smaller and require fewer dependencies. It is just a collection of class definitions. Why we need them? The reason being very simple i.e. code reuse, use the code which has already been written by other developers. Example, some library has a method named findLastIndex(char) to find the last index of a particular character in a string.
  * **_Framework_**
  “In computer programming, a software framework is an abstraction in which software providing generic functionality can be selectively changed by additional user-written code, thus providing application-specific software”
 
