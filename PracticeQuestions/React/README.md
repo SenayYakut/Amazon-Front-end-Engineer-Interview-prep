@@ -1,9 +1,9 @@
 # Goals
 ## Learn about essential React concepts and related terms
- * Babel
+ * Babel: _a JavaScript compiler that lets us use ES6+ in old browsers_
  * Webpack
- * JSX
- * Components
+ * JSX: _JavaScript XML. With JSX, we can write what looks like HTML, and also we can create and use our own XML-like tags. Here's what JSX looks like assigned to a variable. With JSX, we can write what looks like HTML, and also we can create and use our own XML-like tags. Here's what JSX looks like assigned to a variable._
+ * Components:
  * Props
  * State
  * Lifecycle
