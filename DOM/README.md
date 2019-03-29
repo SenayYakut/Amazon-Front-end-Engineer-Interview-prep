@@ -21,6 +21,8 @@ elem.childNodes[elem.childNodes.length - 1] === elem.lastChild
 }
 
 
+alert(document.body.childNodes.filter); // undefined (there's no filter method!)
+alert( Array.from(document.body.childNodes).filter ); // now it's there
 
 
   
