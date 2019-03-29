@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>HTML Dom Innerhtml Property</title>
+</head>
+
+<body>
+    <div id="demo">
+        <p>Demo</p>
+    </div>
+    
+</body>
+
+</html>
+<!--
+    var element = document.getElementById("demo");
+console.log(element.innerHTML) //logs <p>Demo</p>
+-->
+
+<!--
+    SET ELEMENT CONTENT
+-->
+    <div id="demo"></div>
+
+    var element = document.getElementById("demo");
+    element.innerHTML = "<div>Demo</div>";
+
+    will log;
+    <div id="demo">
+        <div>Demo</div>
+    </div>
+
+    <!--
+        security considerations
+        The value that’s set to innerHTML should come from trusted sources, since Javascript will put anything inside that element and it will be run as plain HTML.
+This type of attack is called Cross Site Scripting, or XSS for short.
+
+    -->
