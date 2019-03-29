@@ -20,9 +20,22 @@ elem.childNodes[elem.childNodes.length - 1] === elem.lastChild
       alert(node);//shows all the nodes from collection
 }
 
+2. Array methods won’t work, because it’s not an array:
+* Alert(document.body.childNodes.filter); // undefined (there's no filter method!)
+* Alert( Array.from(document.body.childNodes).filter ); // now it's there
 
-alert(document.body.childNodes.filter); // undefined (there's no filter method!)
-alert( Array.from(document.body.childNodes).filter ); // now it's there
+## Siblings and the parent
 
+<!DOCTYPE html>
+<html><head></head><body><script>
+  // HTML is "dense" to evade extra "blank" text nodes.
 
-  
+  // parent of <body> is <html>
+  alert( document.body.parentNode === document.documentElement ); // true
+
+  // after <head> goes <body>
+  alert( document.head.nextSibling ); // HTMLBodyElement
+
+  // before <body> goes <head>
+  alert( document.body.previousSibling ); // HTMLHeadElement
+</script></body></html>
