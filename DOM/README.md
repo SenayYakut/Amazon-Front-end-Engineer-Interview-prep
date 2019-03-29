@@ -6,8 +6,8 @@
 2. document.documentElement <HTML>
 3. document.body (if it is inside body) document.head (if it is inside head)
 4. parentNode
-5. previousSibling <DIV> nextSibling
-6. firstChild  (childNodes) lastChild  
+5. previousSibling <==DIV==> nextSibling
+6. firstChild  <==(childNodes)==> lastChild  
   
 
   
