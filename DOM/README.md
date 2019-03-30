@@ -39,3 +39,16 @@ elem.childNodes[elem.childNodes.length - 1] === elem.lastChild
   // before <body> goes <head>
   alert( document.body.previousSibling ); // HTMLHeadElement
 </script></body></html>
+
+## Element-only navigation
+
+## More links: tables
+* Till now we described the basic navigation properties.
+Certain types of DOM elements may provide additional properties, specific to their type, for convenience.
+Tables are a great example and important particular case of that._
+
+## SUMMARY
+* Given a DOM node, we can go to its immediate neighbours using navigation properties.
+* There are two main sets of them:
+* For all nodes: parentNode, childNodes, firstChild, lastChild, previousSibling, nextSibling.
+* For element nodes only: parentElement, children, firstElementChild, lastElementChild, previousElementSibling, nextElementSibling.
