@@ -8,6 +8,28 @@
 * It's a JavaScript Worker, so it can't access the DOM directly.
 * Service workers make extensive use of promises, so you should know JavaScript promises
 ## Image optimizations:
+* Image optimization is about reducing the file size of your images as much as possible without sacrificing quality so that your page load times remain low. It’s also about image SEO. That is, getting your product images and decorative images to rank on Google and other image search engines.
+
+1.Name your images descriptively and in plain language.
+
+2.Optimize your alt attributes carefully.
+
+3.Choose your image dimensions and product angles wisely.
+
+4.Reduce the file size of your images.
+
+5.Choose the right file type.
+
+6.Optimize your thumbnails.
+
+7.Use image sitemaps.
+
+8.Beware of decorative images.
+
+9.Use caution when using content delivery networks (CDNs).
+
+10.Test your images.
+
 ## Lazy loading and bundle splitting:
 ## General implications of HTTP/2 and server-push:
 ## When to prefetch and preload resources:
