@@ -69,7 +69,17 @@ Each URL is called a **request** while the data sent back to you is called a **r
 
 # What Is Web Security?
 * Ensuring that your website or open web application is secure is critical. Even simple bugs in your code can result in private information being leaked, and bad people are out there trying to find ways to steal data. The web security oriented articles listed here provide information that may help you secure your site and its code from attacks and data theft.
-
+1. Information Security Basics
+2. Insecure passwords
+3. Mixed content
+4. Referer header: privacy and security concers
+5. Same-origin policy
+6. Secure contexts
+7. Security your site
+8. Site Identity Button
+9. Subresource Integrity
+10. Transport Layer Security
+11. Weak signature algorithms
 
 
 
