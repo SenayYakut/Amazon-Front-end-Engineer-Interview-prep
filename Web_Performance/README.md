@@ -49,3 +49,10 @@
 10.Analyze repaint issues withbrowser tools
 
 ## Differences between the browser layout, compositing and painting:
+* **Layout:** Browser will determine how much space each element takes up and where to place it.
+
+* **Painting:** This is the process of filling in pixels. It involves drawing out elements.
+
+* **Compositing:** Browser draws element to the screen in the correct order so the page renders correctly.
+
+
