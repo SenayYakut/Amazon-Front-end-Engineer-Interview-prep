@@ -36,5 +36,16 @@
 * HTTP/2 Server Push allows an HTTP/2-compliant server to send resources to a HTTP/2-compliant client before the client requests them. It is, for the most part, a performance technique that can be helpful in loading resources pre-emptively.
 ## When to prefetch and preload resources:
 * Resource Prioritization – Getting the Browser to Help You
-## Reduce browser reflows and to promote and element to the GPU:
+## Reduce browser reflows and to promote and element to the GPU(graphics processing unit):
+1. Use the best practice layout techniques.
+2. Minimize the number of css rules
+3. Minimize DOM depths
+4. Update Classes Low in the DOM Tree
+5. Remove Complex Animations from the flow
+6. Modify Hidden Elements
+7. Update Elements in Batch
+8. Limit the affected elements
+9. Recognize that smoothness compromises performance
+10.Analyze repaint issues withbrowser tools
+
 ## Differences between the browser layout, compositing and painting:
