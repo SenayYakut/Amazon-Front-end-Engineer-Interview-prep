@@ -57,6 +57,18 @@
 ## What is API?
 * An API is an application programming interface. It is a set of rules that allow programs to talk to each other. The developer creates the API on the server and allows the client to talk to it.
 
+## What Is REST?
+* REST determines how the API looks like. It stands for “Representational State Transfer”. It is a set of rules that developers follow when they create their API. One of these rules states that you should be able to get a piece of data (called a resource) when you link to a specific URL.
+
+Each URL is called a **request** while the data sent back to you is called a **response.**
+### The Anatomy Of A Request
+1. The endpoint
+2. The method
+3. The headers
+4. The data (or body)
+
+# What Is Web Security?
+* Ensuring that your website or open web application is secure is critical. Even simple bugs in your code can result in private information being leaked, and bad people are out there trying to find ways to steal data. The web security oriented articles listed here provide information that may help you secure your site and its code from attacks and data theft.
 
 
 
