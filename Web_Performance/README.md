@@ -33,6 +33,8 @@
 ## Lazy loading and bundle splitting:
 * Lazy, or "on demand", loading is a great way to optimize your site or application. This practice essentially involves splitting your code at logical breakpoints, and then loading it once the user has done something that requires, or will require, a new block of code. This speeds up the initial load of the application and lightens its overall weight as some blocks may never even be loaded.
 ## General implications of HTTP/2 and server-push:
+* HTTP/2 Server Push allows an HTTP/2-compliant server to send resources to a HTTP/2-compliant client before the client requests them. It is, for the most part, a performance technique that can be helpful in loading resources pre-emptively.
 ## When to prefetch and preload resources:
+* Resource Prioritization – Getting the Browser to Help You
 ## Reduce browser reflows and to promote and element to the GPU:
 ## Differences between the browser layout, compositing and painting:
