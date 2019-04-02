@@ -81,6 +81,14 @@ Each URL is called a **request** while the data sent back to you is called a **r
 10. Transport Layer Security
 11. Weak signature algorithms
 
+# What is JSON?
+* JSON: JavaScript Object Notation.
+* JSON is a syntax for storing and exchanging data.
+* JSON is text, written with JavaScript object notation.
+
+## Exchanging Data
+* When exchanging data between a browser and a server, the data can only be text.
+
 
 
 
