@@ -1,0 +1,7 @@
+#MyWidget{
+    margin: 2;
+    padding: 5;
+    font: Arial;
+    font - size: larger;
+    font - weight: bold;
+}
