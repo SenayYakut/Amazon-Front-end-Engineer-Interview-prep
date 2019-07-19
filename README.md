@@ -128,4 +128,4 @@ APIs, and interactions between components.
 
 * _If you need some help with fundamentals [FreeCodeCamp](https://guide.freecodecamp.org/javascript/es6/arrow-functions/)_
 
-* https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php#EDITOR
+* _[JavaScript array - Exercises, Practice](https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php#EDITOR_
