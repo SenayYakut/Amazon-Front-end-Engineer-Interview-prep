@@ -47,3 +47,8 @@ class Welcome extends React.Component {
     return <h1>Hello, {this.props.name}</h1>;
   }
 }
+
+
+##UI Whiteboarding
+
+Know how to do basic pagination -> was asked this in interview
